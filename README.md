@@ -11,3 +11,5 @@ Unfortunately, the watermark completely goes away if it is changed with AI. I am
 just use this repo!
 
 Thanks!
+
+You can find OpenStego at openstego.com.
